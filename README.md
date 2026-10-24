@@ -1,2 +1,2 @@
 # GalaxyGala-offline
-前往右侧Releases 下载.html文件
+请前往右侧Releases下载最新的.html文件
